@@ -783,6 +783,20 @@ a:focus {
     text-overflow: ellipsis;
 }
 
+
+.service .service-text h4 {
+    margin: 0;
+    padding: 0 15px 0 25px;
+    width: calc(100% - 60px);
+    font-size: 18px;
+    font-weight: 700;
+    color: #fdbe33;
+    text-align: left;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
 .service .service-item a.btn {
     width: 60px;
     height: 60px;
