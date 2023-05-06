@@ -251,7 +251,8 @@ a:focus {
     .nav-bar .btn {
         display: flex;
         align-items: center;
-        width: 70%;
+        width: 65%;
+        font-size: 15px;
     }
 }
 
