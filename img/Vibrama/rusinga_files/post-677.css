@@ -1,0 +1,140 @@
+.elementor-677 .elementor-element.elementor-element-02927a0:not(.elementor-motion-effects-element-type-background), .elementor-677 .elementor-element.elementor-element-02927a0 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://dev.xtranet.co.ke/kenyahighway/wp-content/uploads/2019/11/bgfooter.jpg");background-position:top center;background-repeat:no-repeat;background-size:cover;}.elementor-677 .elementor-element.elementor-element-02927a0 > .elementor-background-overlay{background-color:#000000;opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-677 .elementor-element.elementor-element-02927a0{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-677 .elementor-element.elementor-element-bce5973 > .elementor-element-populated{padding:0% 0% 0% 0%;}.elementor-677 .elementor-element.elementor-element-a0d4982 .wgl-double_heading{flex-direction:column;}.elementor-677 .elementor-element.elementor-element-a0d4982 .dbl-title_1{color:#FAFAFA;display:inline;}.elementor-677 .elementor-element.elementor-element-a0d4982 .dbl-subtitle{margin:12px 0px 0px 0px;}.elementor-677 .elementor-element.elementor-element-a0d4982 > .elementor-widget-container{padding:0% 0% 0% 0%;}.elementor-677 .elementor-element.elementor-element-66da890 .elementor-icon-list-icon i{color:#EFDD4E;font-size:14px;}.elementor-677 .elementor-element.elementor-element-66da890 .elementor-icon-list-icon svg{fill:#EFDD4E;width:14px;}.elementor-677 .elementor-element.elementor-element-66da890 .elementor-icon-list-text{color:#FDFDFD;}.elementor-677 .elementor-element.elementor-element-7299831 .wgl-double_heading{flex-direction:column;}.elementor-677 .elementor-element.elementor-element-7299831 .dbl-title_1{color:#FFFFFF;display:inline;}.elementor-677 .elementor-element.elementor-element-7299831 .dbl-subtitle{margin:12px 0px 0px 0px;}.elementor-677 .elementor-element.elementor-element-11c7587 .elementor-icon-list-icon i{color:#EBD843;font-size:14px;}.elementor-677 .elementor-element.elementor-element-11c7587 .elementor-icon-list-icon svg{fill:#EBD843;width:14px;}.elementor-677 .elementor-element.elementor-element-11c7587 .elementor-icon-list-text{color:#FFFFFF;}.elementor-677 .elementor-element.elementor-element-a23be00 .wgl-double_heading{flex-direction:column;}.elementor-677 .elementor-element.elementor-element-a23be00 .dbl-title_1{color:#FDFBFB;display:inline;}.elementor-677 .elementor-element.elementor-element-a23be00 .dbl-subtitle{margin:12px 0px 0px 0px;}.elementor-677 .elementor-element.elementor-element-f7a48b7{text-align:left;color:#FFFEFE;}.elementor-677 .elementor-element.elementor-element-629a34e{text-align:center;color:#D1CCCC;}.elementor-677 .elementor-element.elementor-element-629a34e > .elementor-widget-container{margin:10px 0px 10px 0px;border-style:solid;border-width:1px 0px 0px 0px;border-color:#FFFDFD;border-radius:1px 0px 0px 0px;}.elementor-677 .elementor-element.elementor-element-c3ccbd6{--grid-template-columns:repeat(0, auto);--icon-size:17px;--grid-column-gap:5px;--grid-row-gap:0px;}.elementor-677 .elementor-element.elementor-element-c3ccbd6 .elementor-widget-container{text-align:center;}/* Start custom CSS for icon-list, class: .elementor-element-66da890 */#left-area ul.elementor-icon-list-items, .elementor-edit-area .elementor-element ul.elementor-icon-list-items, .elementor .elementor-element ul.elementor-icon-list-items {
+    padding: 0;
+    border-right: 2px dotted;
+    width: 80%;
+}
+
+.elementor-677 .elementor-element.elementor-element-66da890 .elementor-icon-list-icon i {
+    color: #EFDD4E;
+    list-style: none;
+    display: none;
+    font-size: 14px;
+}/* End custom CSS */
+/* Start custom CSS for icon-list, class: .elementor-element-11c7587 */.elementor-677 .elementor-element.elementor-element-11c7587 .elementor-icon-list-icon i {
+    color: #EBD843;
+    font-size: 14px;
+    display: none;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-bce5973 *//* ----------- Galaxy S3 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) {
+      
+      #bottominner
+      {
+          Padding:5%!important;
+       
+      }
+  }
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: portrait) {
+      #bottominner
+      {
+          Padding:5%!important;
+       
+      }
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: landscape) {
+     #bottominner
+      {
+       Padding:5%!important;
+       
+      }
+
+}
+
+/* ----------- Galaxy S4, S5 and Note 3 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) {
+     #bottominner
+      {
+      Padding:5%!important;
+       
+      }
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+     #bottominner
+      {
+       Padding:5%!important;
+       
+      }
+
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: landscape) {
+     #bottominner
+      {
+      Padding:5%!important;
+       
+      }
+}
+
+/* ----------- Galaxy S6 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) {
+     #bottominner
+      {
+        Padding:5%!important;
+       
+      }
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: portrait) {
+     #bottominner
+      {
+       Padding:5%!important;
+       
+      }
+}
+
+/* Landscape */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: landscape) {
+     #bottominner
+      {
+      Padding:5%!important;
+       
+      }
+
+}/* End custom CSS */
