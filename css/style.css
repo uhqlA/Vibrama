@@ -99,6 +99,7 @@ a:focus {
 .top-bar .logo img {
     max-width: 100%;
     max-height: 60px;
+    border-radius: 5px;
 }
 
 .top-bar .top-bar-item {
@@ -159,6 +160,13 @@ a:focus {
     background: #fdbe33;
     transition: .3s;
 }
+
+.span-logo{
+    color: #000000;
+    font-weight: 500;
+}
+
+
 
 .nav-bar .container-fluid {
     padding: 0;
